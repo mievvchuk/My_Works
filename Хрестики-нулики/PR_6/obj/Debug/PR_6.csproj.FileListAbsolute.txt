@@ -1,0 +1,12 @@
+E:\ПІ-231\ІІ курс\Практика II курс 2025р\PR_6\PR_6\bin\Debug\PR_66.exe.config
+E:\ПІ-231\ІІ курс\Практика II курс 2025р\PR_6\PR_6\bin\Debug\PR_66.exe
+E:\ПІ-231\ІІ курс\Практика II курс 2025р\PR_6\PR_6\bin\Debug\PR_66.pdb
+E:\ПІ-231\ІІ курс\Практика II курс 2025р\PR_6\PR_6\obj\Debug\PR_6.csproj.AssemblyReference.cache
+E:\ПІ-231\ІІ курс\Практика II курс 2025р\PR_6\PR_6\obj\Debug\PR_66.exe.config
+E:\ПІ-231\ІІ курс\Практика II курс 2025р\PR_6\PR_6\obj\Debug\PR_66.Form1.resources
+E:\ПІ-231\ІІ курс\Практика II курс 2025р\PR_6\PR_6\obj\Debug\PR_66.Form2.resources
+E:\ПІ-231\ІІ курс\Практика II курс 2025р\PR_6\PR_6\obj\Debug\PR_66.Properties.Resources.resources
+E:\ПІ-231\ІІ курс\Практика II курс 2025р\PR_6\PR_6\obj\Debug\PR_6.csproj.GenerateResource.cache
+E:\ПІ-231\ІІ курс\Практика II курс 2025р\PR_6\PR_6\obj\Debug\PR_6.csproj.CoreCompileInputs.cache
+E:\ПІ-231\ІІ курс\Практика II курс 2025р\PR_6\PR_6\obj\Debug\PR_66.exe
+E:\ПІ-231\ІІ курс\Практика II курс 2025р\PR_6\PR_6\obj\Debug\PR_66.pdb

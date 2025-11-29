@@ -1,0 +1,12 @@
+C:\Users\evcuk\source\repos\PR_66\PR_66\bin\Debug\PR_66.exe.config
+C:\Users\evcuk\source\repos\PR_66\PR_66\bin\Debug\PR_66.exe
+C:\Users\evcuk\source\repos\PR_66\PR_66\bin\Debug\PR_66.pdb
+C:\Users\evcuk\source\repos\PR_66\PR_66\obj\Debug\PR_66.csproj.AssemblyReference.cache
+C:\Users\evcuk\source\repos\PR_66\PR_66\obj\Debug\PR_66.Form1.resources
+C:\Users\evcuk\source\repos\PR_66\PR_66\obj\Debug\PR_66.Properties.Resources.resources
+C:\Users\evcuk\source\repos\PR_66\PR_66\obj\Debug\PR_66.csproj.GenerateResource.cache
+C:\Users\evcuk\source\repos\PR_66\PR_66\obj\Debug\PR_66.csproj.CoreCompileInputs.cache
+C:\Users\evcuk\source\repos\PR_66\PR_66\obj\Debug\PR_66.exe
+C:\Users\evcuk\source\repos\PR_66\PR_66\obj\Debug\PR_66.pdb
+C:\Users\evcuk\source\repos\PR_66\PR_66\obj\Debug\PR_66.exe.config
+C:\Users\evcuk\source\repos\PR_66\PR_66\obj\Debug\PR_66.Form2.resources

@@ -1,0 +1,136 @@
+C:\Users\evcuk\source\repos\PR_1\PR_1\bin\Debug\net8.0-windows\PR_1.exe
+C:\Users\evcuk\source\repos\PR_1\PR_1\bin\Debug\net8.0-windows\PR_1.deps.json
+C:\Users\evcuk\source\repos\PR_1\PR_1\bin\Debug\net8.0-windows\PR_1.runtimeconfig.json
+C:\Users\evcuk\source\repos\PR_1\PR_1\bin\Debug\net8.0-windows\PR_1.dll
+C:\Users\evcuk\source\repos\PR_1\PR_1\bin\Debug\net8.0-windows\PR_1.pdb
+C:\Users\evcuk\source\repos\PR_1\PR_1\obj\Debug\net8.0-windows\PR_1.csproj.GenerateResource.cache
+C:\Users\evcuk\source\repos\PR_1\PR_1\obj\Debug\net8.0-windows\PR_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evcuk\source\repos\PR_1\PR_1\obj\Debug\net8.0-windows\PR_1.AssemblyInfoInputs.cache
+C:\Users\evcuk\source\repos\PR_1\PR_1\obj\Debug\net8.0-windows\PR_1.AssemblyInfo.cs
+C:\Users\evcuk\source\repos\PR_1\PR_1\obj\Debug\net8.0-windows\PR_1.csproj.CoreCompileInputs.cache
+C:\Users\evcuk\source\repos\PR_1\PR_1\obj\Debug\net8.0-windows\PR_1.dll
+C:\Users\evcuk\source\repos\PR_1\PR_1\obj\Debug\net8.0-windows\refint\PR_1.dll
+C:\Users\evcuk\source\repos\PR_1\PR_1\obj\Debug\net8.0-windows\PR_1.pdb
+C:\Users\evcuk\source\repos\PR_1\PR_1\obj\Debug\net8.0-windows\PR_1.genruntimeconfig.cache
+C:\Users\evcuk\source\repos\PR_1\PR_1\obj\Debug\net8.0-windows\ref\PR_1.dll
+C:\Users\evcuk\source\repos\PR_1\PR_1\obj\Debug\net8.0-windows\PR_1.Анкета.resources
+C:\Users\evcuk\source\repos\PR_1\PR_1\obj\Debug\net8.0-windows\PR_1.Properties.Resources.resources
+C:\Users\evcuk\Downloads\PR_1.1\PR_1\obj\Debug\net8.0-windows\PR_1.Анкета.resources
+C:\Users\evcuk\Downloads\PR_1.1\PR_1\obj\Debug\net8.0-windows\PR_1.Properties.Resources.resources
+C:\Users\evcuk\Downloads\PR_1.1\PR_1\obj\Debug\net8.0-windows\PR_1.csproj.GenerateResource.cache
+C:\Users\evcuk\Downloads\PR_1.1\PR_1\obj\Debug\net8.0-windows\PR_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evcuk\Downloads\PR_1.1\PR_1\obj\Debug\net8.0-windows\PR_1.AssemblyInfoInputs.cache
+C:\Users\evcuk\Downloads\PR_1.1\PR_1\obj\Debug\net8.0-windows\PR_1.AssemblyInfo.cs
+C:\Users\evcuk\Downloads\PR_1.1\PR_1\obj\Debug\net8.0-windows\PR_1.csproj.CoreCompileInputs.cache
+C:\Users\evcuk\Downloads\PR_1.1\PR_1\obj\Debug\net8.0-windows\PR_1.dll
+C:\Users\evcuk\Downloads\PR_1.1\PR_1\obj\Debug\net8.0-windows\refint\PR_1.dll
+C:\Users\evcuk\Downloads\PR_1.1\PR_1\obj\Debug\net8.0-windows\PR_1.pdb
+C:\Users\evcuk\Downloads\PR_1.1\PR_1\bin\Debug\net8.0-windows\PR_1.exe
+C:\Users\evcuk\Downloads\PR_1.1\PR_1\bin\Debug\net8.0-windows\PR_1.deps.json
+C:\Users\evcuk\Downloads\PR_1.1\PR_1\bin\Debug\net8.0-windows\PR_1.runtimeconfig.json
+C:\Users\evcuk\Downloads\PR_1.1\PR_1\bin\Debug\net8.0-windows\PR_1.dll
+C:\Users\evcuk\Downloads\PR_1.1\PR_1\bin\Debug\net8.0-windows\PR_1.pdb
+C:\Users\evcuk\Downloads\PR_1.1\PR_1\obj\Debug\net8.0-windows\PR_1.genruntimeconfig.cache
+C:\Users\evcuk\Downloads\PR_1.1\PR_1\obj\Debug\net8.0-windows\ref\PR_1.dll
+C:\Users\evcuk\Downloads\PR_1.2\PR_1\bin\Debug\net8.0-windows\PR_1.exe
+C:\Users\evcuk\Downloads\PR_1.2\PR_1\bin\Debug\net8.0-windows\PR_1.deps.json
+C:\Users\evcuk\Downloads\PR_1.2\PR_1\bin\Debug\net8.0-windows\PR_1.runtimeconfig.json
+C:\Users\evcuk\Downloads\PR_1.2\PR_1\bin\Debug\net8.0-windows\PR_1.dll
+C:\Users\evcuk\Downloads\PR_1.2\PR_1\bin\Debug\net8.0-windows\PR_1.pdb
+C:\Users\evcuk\Downloads\PR_1.2\PR_1\obj\Debug\net8.0-windows\PR_1.Анкета.resources
+C:\Users\evcuk\Downloads\PR_1.2\PR_1\obj\Debug\net8.0-windows\PR_1.Properties.Resources.resources
+C:\Users\evcuk\Downloads\PR_1.2\PR_1\obj\Debug\net8.0-windows\PR_1.csproj.GenerateResource.cache
+C:\Users\evcuk\Downloads\PR_1.2\PR_1\obj\Debug\net8.0-windows\PR_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evcuk\Downloads\PR_1.2\PR_1\obj\Debug\net8.0-windows\PR_1.AssemblyInfoInputs.cache
+C:\Users\evcuk\Downloads\PR_1.2\PR_1\obj\Debug\net8.0-windows\PR_1.AssemblyInfo.cs
+C:\Users\evcuk\Downloads\PR_1.2\PR_1\obj\Debug\net8.0-windows\PR_1.csproj.CoreCompileInputs.cache
+C:\Users\evcuk\Downloads\PR_1.2\PR_1\obj\Debug\net8.0-windows\PR_1.dll
+C:\Users\evcuk\Downloads\PR_1.2\PR_1\obj\Debug\net8.0-windows\refint\PR_1.dll
+C:\Users\evcuk\Downloads\PR_1.2\PR_1\obj\Debug\net8.0-windows\PR_1.pdb
+C:\Users\evcuk\Downloads\PR_1.2\PR_1\obj\Debug\net8.0-windows\PR_1.genruntimeconfig.cache
+C:\Users\evcuk\Downloads\PR_1.2\PR_1\obj\Debug\net8.0-windows\ref\PR_1.dll
+C:\Users\evcuk\Downloads\PR_1.3\PR_1\bin\Debug\net8.0-windows\PR_1.exe
+C:\Users\evcuk\Downloads\PR_1.3\PR_1\bin\Debug\net8.0-windows\PR_1.deps.json
+C:\Users\evcuk\Downloads\PR_1.3\PR_1\bin\Debug\net8.0-windows\PR_1.runtimeconfig.json
+C:\Users\evcuk\Downloads\PR_1.3\PR_1\bin\Debug\net8.0-windows\PR_1.dll
+C:\Users\evcuk\Downloads\PR_1.3\PR_1\bin\Debug\net8.0-windows\PR_1.pdb
+C:\Users\evcuk\Downloads\PR_1.3\PR_1\obj\Debug\net8.0-windows\PR_1.Анкета.resources
+C:\Users\evcuk\Downloads\PR_1.3\PR_1\obj\Debug\net8.0-windows\PR_1.Properties.Resources.resources
+C:\Users\evcuk\Downloads\PR_1.3\PR_1\obj\Debug\net8.0-windows\PR_1.csproj.GenerateResource.cache
+C:\Users\evcuk\Downloads\PR_1.3\PR_1\obj\Debug\net8.0-windows\PR_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evcuk\Downloads\PR_1.3\PR_1\obj\Debug\net8.0-windows\PR_1.AssemblyInfoInputs.cache
+C:\Users\evcuk\Downloads\PR_1.3\PR_1\obj\Debug\net8.0-windows\PR_1.AssemblyInfo.cs
+C:\Users\evcuk\Downloads\PR_1.3\PR_1\obj\Debug\net8.0-windows\PR_1.csproj.CoreCompileInputs.cache
+C:\Users\evcuk\Downloads\PR_1.3\PR_1\obj\Debug\net8.0-windows\PR_1.dll
+C:\Users\evcuk\Downloads\PR_1.3\PR_1\obj\Debug\net8.0-windows\refint\PR_1.dll
+C:\Users\evcuk\Downloads\PR_1.3\PR_1\obj\Debug\net8.0-windows\PR_1.pdb
+C:\Users\evcuk\Downloads\PR_1.3\PR_1\obj\Debug\net8.0-windows\PR_1.genruntimeconfig.cache
+C:\Users\evcuk\Downloads\PR_1.3\PR_1\obj\Debug\net8.0-windows\ref\PR_1.dll
+C:\Users\evcuk\Downloads\PR_1.4\PR_1\bin\Debug\net8.0-windows\PR_1.exe
+C:\Users\evcuk\Downloads\PR_1.4\PR_1\bin\Debug\net8.0-windows\PR_1.deps.json
+C:\Users\evcuk\Downloads\PR_1.4\PR_1\bin\Debug\net8.0-windows\PR_1.runtimeconfig.json
+C:\Users\evcuk\Downloads\PR_1.4\PR_1\bin\Debug\net8.0-windows\PR_1.dll
+C:\Users\evcuk\Downloads\PR_1.4\PR_1\bin\Debug\net8.0-windows\PR_1.pdb
+C:\Users\evcuk\Downloads\PR_1.4\PR_1\obj\Debug\net8.0-windows\PR_1.Анкета.resources
+C:\Users\evcuk\Downloads\PR_1.4\PR_1\obj\Debug\net8.0-windows\PR_1.Properties.Resources.resources
+C:\Users\evcuk\Downloads\PR_1.4\PR_1\obj\Debug\net8.0-windows\PR_1.csproj.GenerateResource.cache
+C:\Users\evcuk\Downloads\PR_1.4\PR_1\obj\Debug\net8.0-windows\PR_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evcuk\Downloads\PR_1.4\PR_1\obj\Debug\net8.0-windows\PR_1.AssemblyInfoInputs.cache
+C:\Users\evcuk\Downloads\PR_1.4\PR_1\obj\Debug\net8.0-windows\PR_1.AssemblyInfo.cs
+C:\Users\evcuk\Downloads\PR_1.4\PR_1\obj\Debug\net8.0-windows\PR_1.csproj.CoreCompileInputs.cache
+C:\Users\evcuk\Downloads\PR_1.4\PR_1\obj\Debug\net8.0-windows\PR_1.dll
+C:\Users\evcuk\Downloads\PR_1.4\PR_1\obj\Debug\net8.0-windows\refint\PR_1.dll
+C:\Users\evcuk\Downloads\PR_1.4\PR_1\obj\Debug\net8.0-windows\PR_1.pdb
+C:\Users\evcuk\Downloads\PR_1.4\PR_1\obj\Debug\net8.0-windows\PR_1.genruntimeconfig.cache
+C:\Users\evcuk\Downloads\PR_1.4\PR_1\obj\Debug\net8.0-windows\ref\PR_1.dll
+C:\Users\evcuk\Downloads\PR_1.5\PR_1\bin\Debug\net8.0-windows\PR_1.exe
+C:\Users\evcuk\Downloads\PR_1.5\PR_1\bin\Debug\net8.0-windows\PR_1.deps.json
+C:\Users\evcuk\Downloads\PR_1.5\PR_1\bin\Debug\net8.0-windows\PR_1.runtimeconfig.json
+C:\Users\evcuk\Downloads\PR_1.5\PR_1\bin\Debug\net8.0-windows\PR_1.dll
+C:\Users\evcuk\Downloads\PR_1.5\PR_1\bin\Debug\net8.0-windows\PR_1.pdb
+C:\Users\evcuk\Downloads\PR_1.5\PR_1\obj\Debug\net8.0-windows\PR_1.Анкета.resources
+C:\Users\evcuk\Downloads\PR_1.5\PR_1\obj\Debug\net8.0-windows\PR_1.Properties.Resources.resources
+C:\Users\evcuk\Downloads\PR_1.5\PR_1\obj\Debug\net8.0-windows\PR_1.csproj.GenerateResource.cache
+C:\Users\evcuk\Downloads\PR_1.5\PR_1\obj\Debug\net8.0-windows\PR_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evcuk\Downloads\PR_1.5\PR_1\obj\Debug\net8.0-windows\PR_1.AssemblyInfoInputs.cache
+C:\Users\evcuk\Downloads\PR_1.5\PR_1\obj\Debug\net8.0-windows\PR_1.AssemblyInfo.cs
+C:\Users\evcuk\Downloads\PR_1.5\PR_1\obj\Debug\net8.0-windows\PR_1.csproj.CoreCompileInputs.cache
+C:\Users\evcuk\Downloads\PR_1.5\PR_1\obj\Debug\net8.0-windows\PR_1.dll
+C:\Users\evcuk\Downloads\PR_1.5\PR_1\obj\Debug\net8.0-windows\refint\PR_1.dll
+C:\Users\evcuk\Downloads\PR_1.5\PR_1\obj\Debug\net8.0-windows\PR_1.pdb
+C:\Users\evcuk\Downloads\PR_1.5\PR_1\obj\Debug\net8.0-windows\PR_1.genruntimeconfig.cache
+C:\Users\evcuk\Downloads\PR_1.5\PR_1\obj\Debug\net8.0-windows\ref\PR_1.dll
+C:\Users\evcuk\Downloads\PR_1.6\PR_1\obj\Debug\net8.0-windows\PR_1.Анкета.resources
+C:\Users\evcuk\Downloads\PR_1.6\PR_1\obj\Debug\net8.0-windows\PR_1.Properties.Resources.resources
+C:\Users\evcuk\Downloads\PR_1.6\PR_1\obj\Debug\net8.0-windows\PR_1.csproj.GenerateResource.cache
+C:\Users\evcuk\Downloads\PR_1.6\PR_1\obj\Debug\net8.0-windows\PR_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\evcuk\Downloads\PR_1.6\PR_1\obj\Debug\net8.0-windows\PR_1.AssemblyInfoInputs.cache
+C:\Users\evcuk\Downloads\PR_1.6\PR_1\obj\Debug\net8.0-windows\PR_1.AssemblyInfo.cs
+C:\Users\evcuk\Downloads\PR_1.6\PR_1\obj\Debug\net8.0-windows\PR_1.csproj.CoreCompileInputs.cache
+C:\Users\evcuk\Downloads\PR_1.6\PR_1\obj\Debug\net8.0-windows\PR_1.dll
+C:\Users\evcuk\Downloads\PR_1.6\PR_1\obj\Debug\net8.0-windows\refint\PR_1.dll
+C:\Users\evcuk\Downloads\PR_1.6\PR_1\obj\Debug\net8.0-windows\PR_1.pdb
+C:\Users\evcuk\Downloads\PR_1.6\PR_1\bin\Debug\net8.0-windows\PR_1.exe
+C:\Users\evcuk\Downloads\PR_1.6\PR_1\bin\Debug\net8.0-windows\PR_1.deps.json
+C:\Users\evcuk\Downloads\PR_1.6\PR_1\bin\Debug\net8.0-windows\PR_1.runtimeconfig.json
+C:\Users\evcuk\Downloads\PR_1.6\PR_1\bin\Debug\net8.0-windows\PR_1.dll
+C:\Users\evcuk\Downloads\PR_1.6\PR_1\bin\Debug\net8.0-windows\PR_1.pdb
+C:\Users\evcuk\Downloads\PR_1.6\PR_1\obj\Debug\net8.0-windows\PR_1.genruntimeconfig.cache
+C:\Users\evcuk\Downloads\PR_1.6\PR_1\obj\Debug\net8.0-windows\ref\PR_1.dll
+E:\ПІ-231\ІІ курс\Практика II курс 2025р\PR_1.6\PR_1\bin\Debug\net8.0-windows\PR_1.exe
+E:\ПІ-231\ІІ курс\Практика II курс 2025р\PR_1.6\PR_1\bin\Debug\net8.0-windows\PR_1.deps.json
+E:\ПІ-231\ІІ курс\Практика II курс 2025р\PR_1.6\PR_1\bin\Debug\net8.0-windows\PR_1.runtimeconfig.json
+E:\ПІ-231\ІІ курс\Практика II курс 2025р\PR_1.6\PR_1\bin\Debug\net8.0-windows\PR_1.dll
+E:\ПІ-231\ІІ курс\Практика II курс 2025р\PR_1.6\PR_1\bin\Debug\net8.0-windows\PR_1.pdb
+E:\ПІ-231\ІІ курс\Практика II курс 2025р\PR_1.6\PR_1\obj\Debug\net8.0-windows\PR_1.Анкета.resources
+E:\ПІ-231\ІІ курс\Практика II курс 2025р\PR_1.6\PR_1\obj\Debug\net8.0-windows\PR_1.Properties.Resources.resources
+E:\ПІ-231\ІІ курс\Практика II курс 2025р\PR_1.6\PR_1\obj\Debug\net8.0-windows\PR_1.csproj.GenerateResource.cache
+E:\ПІ-231\ІІ курс\Практика II курс 2025р\PR_1.6\PR_1\obj\Debug\net8.0-windows\PR_1.GeneratedMSBuildEditorConfig.editorconfig
+E:\ПІ-231\ІІ курс\Практика II курс 2025р\PR_1.6\PR_1\obj\Debug\net8.0-windows\PR_1.AssemblyInfoInputs.cache
+E:\ПІ-231\ІІ курс\Практика II курс 2025р\PR_1.6\PR_1\obj\Debug\net8.0-windows\PR_1.AssemblyInfo.cs
+E:\ПІ-231\ІІ курс\Практика II курс 2025р\PR_1.6\PR_1\obj\Debug\net8.0-windows\PR_1.csproj.CoreCompileInputs.cache
+E:\ПІ-231\ІІ курс\Практика II курс 2025р\PR_1.6\PR_1\obj\Debug\net8.0-windows\PR_1.dll
+E:\ПІ-231\ІІ курс\Практика II курс 2025р\PR_1.6\PR_1\obj\Debug\net8.0-windows\refint\PR_1.dll
+E:\ПІ-231\ІІ курс\Практика II курс 2025р\PR_1.6\PR_1\obj\Debug\net8.0-windows\PR_1.pdb
+E:\ПІ-231\ІІ курс\Практика II курс 2025р\PR_1.6\PR_1\obj\Debug\net8.0-windows\PR_1.genruntimeconfig.cache
+E:\ПІ-231\ІІ курс\Практика II курс 2025р\PR_1.6\PR_1\obj\Debug\net8.0-windows\ref\PR_1.dll
